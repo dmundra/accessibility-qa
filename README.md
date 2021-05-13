@@ -1,6 +1,6 @@
 # Accessibility
 
-This repository and [website](https://accessibility.civicactions.com/) are the single source of truth for work on digital accessibility at [CivicActions](https://civicactions.com/). This work is being done in the open because it is a best practice. 
+This repository and [website](https://accessibility-qa.dmundra.dev/) are the single source of truth for work on digital accessibility at [CivicActions](https://civicactions.com/). This work is being done in the open because it is a best practice. 
 
 Working in the open allows us to  
 * keep up with the work of other accessibility experts and engage with them;
@@ -25,7 +25,7 @@ CivicActions is an impact driven business that sees digital accessibility as som
 
 ## Features ##
 
-Most of our content is broken down into the [Playbook](https://accessibility.civicactions.com/playbook) and [Guide](https://accessibility.civicactions.com/guide). You can find out how to [get involved](https://accessibility.civicactions.com/join) or [contact us](https://accessibility.civicactions.com/contact) through the site as well.  You'll find updates of our projects in our [News](https://accessibility.civicactions.com/news/) section and can find out who we are under [People](https://accessibility.civicactions.com/people).
+Most of our content is broken down into the [Playbook](https://accessibility-qa.dmundra.dev/playbook) and [Guide](https://accessibility-qa.dmundra.dev/guide). You can find out how to [get involved](https://accessibility-qa.dmundra.dev/join) or [contact us](https://accessibility-qa.dmundra.dev/contact) through the site as well.  You'll find updates of our projects in our [News](https://accessibility-qa.dmundra.dev/news/) section and can find out who we are under [People](https://accessibility-qa.dmundra.dev/people).
 
 The meat and bones though is done through GitHub. Because we want to work in the public, you will be able to see some granular detail about our progress by looking at the [issue queue](https://github.com/CivicActions/accessibility/issues). You may be checking out projects we're working on "behind the scenes" by [looking at the code](https://github.com/CivicActions/accessibility). That's great! 
 
@@ -51,7 +51,7 @@ If you want to replicate this site, you are free to do so. It is a [Jekyll](http
 
 ## Contacts
 
-Email: accessibility@civicactions.com
+Email: accessibility-qa.dmundra.dev
 
 CivicActions Slack: #accessibility
 

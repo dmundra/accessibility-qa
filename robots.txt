@@ -1,1 +1,1 @@
-Sitemap: https://accessibility.civicactions.com/sitemap.xml
+Sitemap: https://accessibility-qa.dmundra.dev/sitemap.xml
