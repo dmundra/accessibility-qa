@@ -1,1 +1,1 @@
-Sitemap: https://accessibility-qa.dmundra.dev/sitemap.xml
+User-agent: * Disallow: /
